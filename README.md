@@ -14,11 +14,11 @@ Hi there, I'm Igor 👋, 28 years old, mixing autism, code, and coffee down in T
     <img align="center" alt="native" src="https://img.shields.io/badge/Native-17bef0?style=for-the-badge&logo=react&logoColor=white" style="text-decoration: none;"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-1c6696?style=for-the-badge&logo=python&logoColor=white" style="text-decoration: none;"/>
     <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-f74215?style=for-the-badge&logo=blender&logoColor=white" style="text-decoration: none;"/>
-</a>
+
 
 </p>
 
-<a  href="#">
+
 <div align="center">
   
 ![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=55&rank_icon=github)
