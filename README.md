@@ -19,8 +19,8 @@ Hi there, I'm Igor 👋, 28 years old, mixing autism, code, and coffee down in T
 <a  href="#">
 <div align="center">
   
-![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=47&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRGO-CO&hide_progress=false&layout=donut-vertical&theme=github_dark_dimmed)  
+![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=55&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRGO-CO&hide_progress=true&layout=pie&theme=github_dark_dimmed)  
 
 </div>
 </a>
