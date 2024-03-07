@@ -2,7 +2,7 @@
 Hi there, I'm Igor 👋, 28 years old, mixing autism, code, and coffee down in Taubaté (note: I don't know the <a href = "https://en.wikipedia.org/wiki/Taubat%C3%A9_pregnancy_hoax" target="blank">Taubaté pregnant lady</a>). Fullstack developer and Python deep learning enthusiast. Big fan of Blender 3D.
 </p>
 <hr>
-<a href= "" style="text-decoration: none;">
+<a href= "#" style="text-decoration: none;">
   <p align="center" >
     <img align="center" alt="ts" src="https://img.shields.io/badge/TScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="text-decoration: none;"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="text-decoration: none;"/>
