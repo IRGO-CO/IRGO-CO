@@ -1,7 +1,9 @@
-### Hi there, I'm Igor 👋
-<hr>
 <p align="center">
-  <a href= "#">
+Hi there, I'm Igor 👋, 28 years old, mixing autism, code, and coffee down in Taubaté (note: I don't know the <a href = "https://en.wikipedia.org/wiki/Taubat%C3%A9_pregnancy_hoax">Taubaté pregnant lady</a>). Fullstack developer and Python deep learning enthusiast. Big fan of Blender 3D.
+</p>
+<hr>
+<p align="center" style="text-decoration: none;">
+  <a href= "#" style="text-decoration: none;">
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href= "#">
@@ -17,15 +19,15 @@
     <img align="center" alt="nest" src="https://img.shields.io/badge/Nest.js-911?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
   <a href= "#">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="text-decoration: none;"/>
   </a>
   <a href= "#">
-    <img align="center" alt="ts" src="https://img.shields.io/badge/Blender-f74215?style=for-the-badge&logo=blender&logoColor=white" />
+    <img align="center" alt="ts" src="https://img.shields.io/badge/Blender-f74215?style=for-the-badge&logo=blender&logoColor=white" style="text-decoration: none;"/>
   </a>
 
 </p>
 
-<a style="text-decoration: none;" href="#">
+<a  href="#">
 <div align="center">
   
 ![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=47&rank_icon=github)
