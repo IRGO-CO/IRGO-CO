@@ -25,7 +25,7 @@
 
 </p>
 
-<a href= "#">
+<a style="text-decoration: none;" href="#">
 <div align="center">
   
 ![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=47&rank_icon=github)
