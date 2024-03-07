@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor 👋
 
-![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=47)
+![Irgo GitHub stats](https://github-readme-stats.vercel.app/api?username=IRGO-CO&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=47&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRGO-CO&hide_progress=false&layout=donut-vertical&count_private=true&theme=github_dark_dimmed)  
 <div style="display: inline_block, width: 100%">
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
