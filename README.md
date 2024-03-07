@@ -1,5 +1,5 @@
 <p align="center">
-Hi there, I'm Igor 👋, 28 years old, mixing autism, code, and coffee down in Taubaté (note: I don't know the <a href = "https://en.wikipedia.org/wiki/Taubat%C3%A9_pregnancy_hoax" target="blank">Taubaté pregnant lady</a>). Fullstack developer and Python deep learning enthusiast. Big fan of Blender 3D.
+<strong> Hi there, I'm Igor</strong> 👋, 28 years old, mixing autism, code, and coffee down in Taubaté (note: I don't know the <a href = "https://en.wikipedia.org/wiki/Taubat%C3%A9_pregnancy_hoax" target="blank">Taubaté pregnant lady</a>). Fullstack developer and Python deep learning enthusiast. Big fan of Blender 3D.
 </p>
 <hr>
 <a href= "#" style="text-decoration: none;">
